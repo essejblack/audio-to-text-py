@@ -1,4 +1,4 @@
-# Audio Transcription with OpenAI Whisper
+# Audio Transcription with Groq AI Whisper
 
 This Python project transcribes speech from an `audio.mp3` file into text using the Groq Whisper API. The resulting text is saved to a file named `transcription.txt`.
 
